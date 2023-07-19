@@ -1,4 +1,4 @@
-##Parallel 服务器管理规章
+## Parallel 服务器管理规章
 
 Powered by Lasius
 

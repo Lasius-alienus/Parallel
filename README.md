@@ -63,7 +63,7 @@ Parallel服务器的运行和社区管理都遵循一套明确的规则。这些
 
 #### 4.1 服务器硬件配置
 
-Parallel服务器是在优秀的硬件配置上运营的。我们采用了超到了2.1GHz的rk3399高端处理器（确信）来确保服务器能够快速、顺畅地处理游戏逻辑。
+Parallel服务器是在优秀的硬件配置上运营的。我们采用了超频到了2.1GHz的rk3399高端处理器（确信）来确保服务器能够快速、顺畅地处理游戏逻辑。
 
 #### 4.2 服务器性能调优和维护
 
@@ -79,7 +79,7 @@ Parallel服务器致力于提供稳定，顺畅的游戏环境。我们的目标
 
 ## 5.1 如何接入服务器
 
-加入Parallel服务器其实非常简单。首先，你需要拥有客户端（我们推荐你使用[HMCL](https://hmcl.huangyuhui.net/download/ "HMCL")），以及已经安装了Minecraft 1.16.5 Forge的版本。同时你需要拥有一个[littleskin](https://littleskin.cn/ "littleskin")皮肤站的账户。然后，在Minecraft的多人游戏选项中，添加我们的服务器地址（从QQ群获得），并连接上我们的服务器就可以畅游Parallel的世界了。
+加入Parallel服务器其实非常简单。首先，你需要拥有客户端（我们推荐你使用[HMCL](https://hmcl.huangyuhui.net/download/ "HMCL")），接下来你需要安装包含了Forge的Minecraft 1.16.5。同时你需要在启动器登录[littleskin](https://littleskin.cn/ "littleskin")皮肤站的账户。然后安装我们提供的整合包。最后，在Minecraft的多人游戏选项中，添加我们的服务器地址（从QQ群获得），并连接上我们的服务器就可以畅游Parallel的世界了。
 
 记住，在初次连接服务器的时候，不要忘记阅读我们的指南和规则。这能帮你尽快适应新环境，融入到Parallel的社区。
 

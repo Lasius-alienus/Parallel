@@ -3,6 +3,7 @@
 * 启动器在[这里](https://hmcl.huangyuhui.net/download/ "这里")下载
 * 整合包在[这里](https://github.com/Lasius-alienus/Parallel/blob/main/Parallel_1.16.5_1.5_rc0_mainline.zip "这里")下载
 * 账号在[这里](https://littleskin.cn/auth/register "这里")注册
+###### QQ交流群：717429445
 # 1. 服务器概述
 
 Powered By Lasius
@@ -121,5 +122,3 @@ Parallel的目标是成为一个所有玩家都可以在其中找到乐趣的独
 我们也正在探索一些新的反馈系统和激励机制，以便更好地理解玩家的需求，鼓励玩家们积极参与社区的建设。
 
 我们深信，每一个玩家都是Parallel社区的重要一分子。只有玩家们的参与以及我们的共同努力，才能让Parallel慢慢发展壮大，实现我们的愿景。加入我们，和Parallel一起，见证我们共同发展的历程吧。
-
-###### QQ交流群：717429445

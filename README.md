@@ -1,7 +1,8 @@
-# jdk在[这里](https://hmcl.huangyuhui.net/download/ "这里")下载
-# 启动器在[这里](https://hmcl.huangyuhui.net/download/ "这里")下载
-# 整合包在[这里](https://github.com/Lasius-alienus/Parallel/blob/main/Parallel_1.16.5_1.5_rc0_mainline.zip "这里")下载
-# 账号在[这里](https://littleskin.cn/auth/register "这里")注册
+# 快速开始
+* jdk在[这里](https://hmcl.huangyuhui.net/download/ "这里")下载
+* 启动器在[这里](https://hmcl.huangyuhui.net/download/ "这里")下载
+* 整合包在[这里](https://github.com/Lasius-alienus/Parallel/blob/main/Parallel_1.16.5_1.5_rc0_mainline.zip "这里")下载
+* 账号在[这里](https://littleskin.cn/auth/register "这里")注册
 # 1. 服务器概述
 
 Powered By Lasius
